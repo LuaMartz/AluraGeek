@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "name": "Animación 2D Profesional",
+      "price": "600",
+      "image": "https://th.bing.com/th/id/R.52e48cd4409fc3e69ab50ec3fc4959c7?rik=iLf32NRYfjQo9g&pid=ImgRaw&r=0",
+      "id": 1
+    },
+    {
+      "name": "Animación 3D",
+      "price": "900",
+      "image": "https://zao3d.com/wp-content/uploads/2023/06/coche_shading-2-1280x720.png",
+      "id": 2
+    },
+    {
+      "name": "Diseño de Logotipos Creativos",
+      "price": "250",
+      "image": "https://th.bing.com/th/id/R.21e4fb061ff1d74fa9de17a78197d0a1?rik=CXrl1%2f%2bf8%2fEVLQ&riu=http%3a%2f%2frenaissance-marketing.co.uk%2fwp-content%2fuploads%2f2019%2f05%2fBranding.png&ehk=El13LiS9iqIIrIjzisVS%2bH4HOtJ31Mcc8TU7mbKRHPs%3d&risl=&pid=ImgRaw&r=0",
+      "id": 3
+    },
+    {
+      "name": "Desarrollo Web Full Stack",
+      "price": "1200",
+      "image": "https://th.bing.com/th/id/OIP.pBCzgrYOZW6V1i9zLs-njwHaFj?rs=1&pid=ImgDetMain",
+      "id": 4
+    },
+    {
+      "name": "Aplicaciones Móviles a Medida",
+      "price": "1500",
+      "image": "https://isil.pe/blog/wp-content/uploads/2023/05/tipos-de-app-moviles.png",
+      "id": 5
+    },
+    {
+      "name": "Modelado y Renderizado Arquitectónico",
+      "price": "800",
+      "image": "https://th.bing.com/th/id/OIP.EhVIa5pJWd3eWaB7_TnbYQHaFj?rs=1&pid=ImgDetMain",
+      "id": 6
+    },
+    {
+      "name": "Chatbots con Inteligencia Artificial",
+      "price": "1300",
+      "image": "https://th.bing.com/th/id/OIP.NQMsWuKWBeyCDhX3Ihj5RgHaE7?rs=1&pid=ImgDetMain",
+      "id": 7
+    },
+    {
+      "name": "Diseño UX/UI para Aplicaciones",
+      "price": "700",
+      "image": "https://th.bing.com/th/id/OIP.aXhgJM-kpasO8-o1q12FdwHaE8?rs=1&pid=ImgDetMain",
+      "id": 8
+    },
+    {
+      "name": "Edición y Postproducción de Video",
+      "price": "900",
+      "image": "https://www.cpaonline.es/blog/wp-content/uploads/2018/05/postproduccionimportancia02.jpg",
+      "id": 9
+    }
+  ]
+}
